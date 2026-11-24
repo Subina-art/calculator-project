@@ -1,4 +1,4 @@
-print("Simple Calculator")
+print("Basic Calculator")
 
 try:
     num1 = float(input("Enter first number: "))
